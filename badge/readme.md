@@ -41,8 +41,6 @@ Badges have _no elevation_ unless its white. White badges are used on avatars wh
 
 
 ## Heroes
-![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Indbakke m. attachment - besked sendt.png)
+![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Hero-inbox.png)
 
-## Types
-![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Types.png)
 
