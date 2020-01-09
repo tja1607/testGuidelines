@@ -1,7 +1,7 @@
 
 # Badge
 
-[zeplin](https://zpl.io/br0wMQ7), [Cookbook](https://cookbook.kirby.design/home/showcase/badge)
+[Zeplin](https://zpl.io/br0wMQ7), [Cookbook](https://cookbook.kirby.design/home/showcase/badge)
 
 Badges are inline block elements that appear on top of another component. Typically they contain a number or an icon and in certain usecases they can also use a text, although flags are often a better alternative when using text.
 They can be used as a notification that there are additional items associated with an element and indicate how many items there are.
