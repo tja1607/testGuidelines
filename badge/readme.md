@@ -30,3 +30,19 @@ Badges have _no elevation_ unless its white. White badges are used on avatars wh
 
 ## Types
 ![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Types.png)
+
+## Placement & Spec
+![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Tabbar.png)
+![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Avatar.png)
+![types](https://github.com/tja1607/testGuidelines/blob/master/badge/List.png)
+![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Segment.png)
+![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Tabbar-desktop.png)
+
+
+
+## Heroes
+![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Indbakke m. attachment - besked sendt.png)
+
+## Types
+![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Types.png)
+
