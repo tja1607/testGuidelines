@@ -26,6 +26,6 @@ Badges are **decorative**, so they don’t have to be accessible; Our users expe
 
 ### Heroes
 ![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Hero-inbox.png)
-test
+
 
 
