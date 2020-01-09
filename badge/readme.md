@@ -11,8 +11,10 @@ Badges can also show icons to indicate a status on the associated element, e.g. 
 Badges are available in two sizes - medium and small. Medium badges kan be used with text, dot and icons. Small badges are only with color options and can be used to indicate a status on an element, e.g. a flagged transaction.
 Badges are **decorative**, so they don’t have to be accessible; Our users expect the red color to be with a white text which is not accessible, but we are aware of that.
 
-> Badges have _no elevation_ unless its white. White badges are used on avatars which make the badge disappear. Thus it has a _z0_ elevation 
->
+Badges have _no elevation_ unless its white. White badges are used on avatars which make the badge disappear. Thus it has a _z0_ elevation 
+
+
+---
 
 ### Types
 ![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Types.png)
