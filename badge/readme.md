@@ -27,3 +27,6 @@ Badges are **decorative**, so they don’t have to be accessible; Our users expe
 ## Elevation
 
 Badges have _no elevation_ unless its white. White badges are used on avatars which make the badge disappear. Thus it has a _z0_ elevation
+
+## Types
+![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Types.png)
