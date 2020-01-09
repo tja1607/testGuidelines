@@ -1,5 +1,6 @@
-
 # Badge
+
+### Links
 
 [Zeplin](https://zpl.io/br0wMQ7), [Cookbook](https://cookbook.kirby.design/home/showcase/badge)
 
@@ -25,6 +26,6 @@ Badges are **decorative**, so they don’t have to be accessible; Our users expe
 
 ### Heroes
 ![types](https://github.com/tja1607/testGuidelines/blob/master/badge/Hero-inbox.png)
-[View in zeplin](http://www.dr.dk)
+test
 
 
