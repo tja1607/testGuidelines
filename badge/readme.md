@@ -15,13 +15,24 @@
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+
+<table>
+<tr>
+    <td valign="top">
+    dodojdojdojdodojdoj
+    </td>
+    <td align="right" width="20%">
+    <img width="200" src="https://github.com/tja1607/testGuidelines/blob/master/badge/assets/Avatar.png?raw=true">
+    </td>
+</tr>
+</table>
 # Rule 1
 Description for rule 1.
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
         <h2>Good</h2>
-        <pre><code class="language-c">int foo (void) 
+        <pre><code class="language-c"> <img width="200" src="https://github.com/tja1607/testGuidelines/blob/master/badge/assets/Avatar.png?raw=true">int foo (void) 
 {
     int i;
 }
@@ -61,7 +72,13 @@ Badges have _no elevation_ unless its white. White badges are used on avatars wh
 
 ### Placement & Spec
 ![types](./assets/Tabbar.png)
-æoidsisoisoisoijsdoij
+
+> Blockquotes are very handy in email to emulate reply text.
+>![types](./assets/Tabbar.png)
+>sssssssssssss  dsh sth xg hdth
+
+> This line is part of the same quote.
+
 
 
 ![types](./assets/Avatar.png)
