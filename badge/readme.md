@@ -16,7 +16,7 @@
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-<table>
+<table border="0">
 <tr>
     <td valign="top">
     dodojdojdojdodojdoj
