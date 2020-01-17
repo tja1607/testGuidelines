@@ -1,5 +1,26 @@
 # Badge
 
+# Rule 1
+Description for rule 1.
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <h2>Good</h2>
+        <pre><code class="language-c">int foo (void) 
+{
+    int i;
+}
+</code></pre>
+    </div>
+    <div style="display: inline-block;">
+        <h2>Bad</h2>
+        <pre><code class="language-c">int foo (void) {
+    int i;
+}
+</code></pre>
+    </div>
+</div>
+
 ### Links
 
 [Zeplin](https://zpl.io/br0wMQ7), [Cookbook](https://cookbook.kirby.design/home/showcase/badge)
@@ -17,10 +38,17 @@ Badges have _no elevation_ unless its white. White badges are used on avatars wh
 ---
 
 ### Types
-![types](./assets/Types.png)
+
+   *sæoihs* so oihoih soih oih oih soih soih oihsoihsoih ohosih oishoihsoihsoihoihsoih soihsoih soihsohsoihsohosh os | ![types](./assets/Types.png) |
+| :---:| ---------:|
+
+
 
 ### Placement & Spec
 ![types](./assets/Tabbar.png)
+æoidsisoisoisoijsdoij
+
+
 ![types](./assets/Avatar.png)
 ![types](./assets/List.png)
 ![types](./assets/Segment.png)
