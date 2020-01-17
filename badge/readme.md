@@ -1,6 +1,14 @@
 # Badge
 
 <dl>
+  <dt>## Definition list</dt>
+  <dd>![types](./assets/Tabbar.png)</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+<dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
 
