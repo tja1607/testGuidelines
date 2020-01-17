@@ -21,7 +21,7 @@
     <td valign="top">
     dodojdojdojdodojdoj
     </td>
-    <td align="right" width="20%">
+    <td align="right" width="20%" bgcolor="red">
     <img width="200" src="https://github.com/tja1607/testGuidelines/blob/master/badge/assets/Avatar.png?raw=true">
     </td>
 </tr>
