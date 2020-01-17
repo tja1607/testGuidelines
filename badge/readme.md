@@ -18,7 +18,7 @@
 
 <table>
     <tr>
-        <td>
+        <td valign="top">
         This is some text, images text goes into here;) 
         </td>
         <td align="right" width="30%">
