@@ -16,15 +16,15 @@
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-<table border="0">
-<tr>
-    <td valign="top">
-    dodojdojdojdodojdoj
-    </td>
-    <td align="right" width="20%" bgcolor="red">
-    <img width="200" src="https://github.com/tja1607/testGuidelines/blob/master/badge/assets/Avatar.png?raw=true">
-    </td>
-</tr>
+<table>
+    <tr>
+        <td>
+        This is some text, images text goes into here;) 
+        </td>
+        <td align="right" width="30%">
+        <img src="https://github.com/tja1607/testGuidelines/blob/master/badge/assets/Avatar.png?raw=true">
+        </td>
+    </tr>
 </table>
 # Rule 1
 Description for rule 1.
