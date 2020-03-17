@@ -4,49 +4,50 @@
     <title>inout-don't</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="0" y="0" width="400" height="326"></rect>
-        <filter x="-1.8%" y="-1.5%" width="103.5%" height="104.3%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+        <rect id="path-1" x="16" y="16" width="368" height="294" rx="8"></rect>
+        <filter x="-4.6%" y="-5.4%" width="109.2%" height="111.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <rect id="path-3" x="0" y="0" width="175.375" height="33"></rect>
-        <filter x="-1.1%" y="-6.1%" width="102.3%" height="112.1%" filterUnits="objectBoundingBox" id="filter-4">
+        <rect id="path-3" x="0" y="0" width="143" height="27"></rect>
+        <filter x="-1.4%" y="-7.4%" width="102.8%" height="114.8%" filterUnits="objectBoundingBox" id="filter-4">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <rect id="path-5" x="0" y="45" width="175.375" height="33"></rect>
-        <filter x="-1.1%" y="-6.1%" width="102.3%" height="112.1%" filterUnits="objectBoundingBox" id="filter-6">
+        <rect id="path-5" x="0" y="37" width="143" height="27"></rect>
+        <filter x="-1.4%" y="-7.4%" width="102.8%" height="114.8%" filterUnits="objectBoundingBox" id="filter-6">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <rect id="path-7" x="192.625" y="0" width="175.375" height="33"></rect>
-        <filter x="-1.1%" y="-6.1%" width="102.3%" height="112.1%" filterUnits="objectBoundingBox" id="filter-8">
+        <rect id="path-7" x="157" y="0" width="143" height="27"></rect>
+        <filter x="-1.4%" y="-7.4%" width="102.8%" height="114.8%" filterUnits="objectBoundingBox" id="filter-8">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <rect id="path-9" x="192.625" y="45" width="175.375" height="33"></rect>
-        <filter x="-1.1%" y="-6.1%" width="102.3%" height="112.1%" filterUnits="objectBoundingBox" id="filter-10">
+        <rect id="path-9" x="157" y="37" width="143" height="27"></rect>
+        <filter x="-1.4%" y="-7.4%" width="102.8%" height="114.8%" filterUnits="objectBoundingBox" id="filter-10">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <rect id="path-11" x="192.625" y="90" width="175.375" height="33"></rect>
-        <filter x="-1.1%" y="-6.1%" width="102.3%" height="112.1%" filterUnits="objectBoundingBox" id="filter-12">
+        <rect id="path-11" x="157" y="73" width="143" height="27"></rect>
+        <filter x="-1.4%" y="-7.4%" width="102.8%" height="114.8%" filterUnits="objectBoundingBox" id="filter-12">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
         </filter>
-        <rect id="path-13" x="192.625" y="135" width="175.375" height="33"></rect>
-        <filter x="-1.1%" y="-6.1%" width="102.3%" height="112.1%" filterUnits="objectBoundingBox" id="filter-14">
+        <rect id="path-13" x="157" y="110" width="143" height="27"></rect>
+        <filter x="-1.4%" y="-7.4%" width="102.8%" height="114.8%" filterUnits="objectBoundingBox" id="filter-14">
             <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
             <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
             <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
@@ -54,12 +55,11 @@
         </filter>
     </defs>
     <g id="inout-don't" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#FFFFFF" x="0" y="0" width="400" height="326"></rect>
         <g id="bg">
             <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
             <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
         </g>
-        <g id="input" transform="translate(16.000000, 16.000000)">
+        <g id="input" transform="translate(50.000000, 87.000000)">
             <g id="Rectangle">
                 <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
                 <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
@@ -85,8 +85,8 @@
                 <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
             </g>
         </g>
-        <path id="Line" d="M201.130282,30.4253688 L197.206882,39.6912705 L194.609,36.648 L119.074631,101.130282 L118.694349,101.454913 L118.045087,100.694349 L118.425369,100.369718 L193.96,35.888 L191.363521,32.84619 L201.130282,30.4253688 Z" fill="#979797" fill-rule="nonzero"></path>
-        <path id="Line" d="M104,22 L104,99 L108,99 L103.5,108 L99,99 L103,99 L103,22 L104,22 Z" fill="#979797" fill-rule="nonzero"></path>
-        <path id="Line" d="M295.99859,22.9985935 L295.999998,23.4985916 L296.476,192.498 L300.476039,192.487358 L296.001408,201.499998 L291.476074,192.51271 L295.476,192.501 L295.000002,23.5014084 L294.998594,23.0014104 L295.99859,22.9985935 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M201.173176,99.2959486 L197.314872,108.589144 L194.696,105.565 L133.941749,158.170249 L133.563753,158.49754 L132.909171,157.741549 L133.287167,157.414258 L194.041,104.809 L191.423637,101.785223 L201.173176,99.2959486 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M122,92.9069767 L122,154.093 L126,154.093023 L121.5,163.093023 L117,154.093023 L121,154.093 L121,92.9069767 L122,92.9069767 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M278.749135,93.9064396 L278.749999,94.4064389 L278.985,230.499 L282.985297,230.492232 L278.500864,239.499999 L273.98531,230.507793 L277.985,230.5 L277.750001,94.4081679 L277.749136,93.9081686 L278.749135,93.9064396 Z" fill="#979797" fill-rule="nonzero"></path>
     </g>
 </svg>
