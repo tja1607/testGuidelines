@@ -25,6 +25,10 @@
 
 
 ___
+Don’t overuse putting forms side by sid_____________________________________          | Keep the same structure as in real world examples and make it easy for people to copy/paste
+-------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------
+![Don't do](https://github.com/tja1607/testGuidelines/blob/master/Forms/inputDont.svg) | ![Pleas do](https://github.com/tja1607/testGuidelines/blob/master/Forms/inputDo.svg)
+> We're living the future so the present is our past                                   | We're living the future so the present is our past
 
 **Don’t overuse putting forms side by side**
 
