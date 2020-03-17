@@ -1,8 +1,8 @@
 # Forms
 
-#### Index
+- [Design Best Practices](#design-best-practices)
 
-[Design Best Practices](#design-best-practices)
+[Input Container](#input-Container)
 
 
 
@@ -22,3 +22,6 @@
 - Don’t validate empty fields before submitting the form (eg. Leaving the form without any text on a required field shouldn’t be validated)
 - Don’t write the same placeholder text as the label, eg. “Emne & Indtast emne” - If you need to show a hint text make an example (“eg. 12/23/2020”) - Try not to have a placeholder text
 - Don’t overuse putting forms side by side - Try to do it only if it supports the normal way you input it.
+
+
+## Input Container
