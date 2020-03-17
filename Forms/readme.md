@@ -2,7 +2,6 @@
 <nav>
 
 [Design Best Practices](#design-best-practices)
-
 [Input Container](#input-Container)
 
 </nav>
