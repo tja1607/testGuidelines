@@ -1,20 +1,38 @@
 # Badge
 
-<dl>
-  <dt>## Definition list</dt>
-  <dd>![types](./assets/Tabbar.png)</dd>
+Badges are inline block elements that appear on top of another component. Typically they contain a number or 
+an icon and in certain usecases they can also use a text, although flags are often a better alternative when using text.
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+### Usage
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+### Anatomy
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+### Specs
+
+### Color
+Generalt bruger badge [kirby signal farver](https://zpl.io/br0wMQ7), for at fremhæve sig selv, og udskilde sig fra det overordnede design. 
+Badge kan dog opstå med en anden baggrunds farve, hvis et badge vises på componenten [Avatar](https://zpl.io/br0wMQ7).
+
+### Elovation
+Badge har generalt ikke nogen elovation. Det eneste tidspunkt badge indholder elovation er når det optræder over på componenetet 
+[Avatar](https://zpl.io/br0wMQ7).
+
+### Size
+Badge kommere i to størrelser, small og medium. 
+
+## Use of badge
+
+## Type of badges
+<table>
+    <tr>
+        <td valign="top">
+        This is some text, images text goes into here;) 
+        </td>
+        <td align="right" width="30%">
+        <img src="https://github.com/tja1607/testGuidelines/blob/master/badge/assets/Types.png?raw=true">
+        </td>
+    </tr>
+</table>
 
 <table>
     <tr>
@@ -26,26 +44,6 @@
         </td>
     </tr>
 </table>
-# Rule 1
-Description for rule 1.
-
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <h2>Good</h2>
-        <pre><code class="language-c"> <img width="200" src="https://github.com/tja1607/testGuidelines/blob/master/badge/assets/Avatar.png?raw=true">int foo (void) 
-{
-    int i;
-}
-</code></pre>
-    </div>
-    <div style="display: inline-block;">
-        <h2>Bad</h2>
-        <pre><code class="language-c">int foo (void) {
-    int i;
-}
-</code></pre>
-    </div>
-</div>
 
 ### Links
 
