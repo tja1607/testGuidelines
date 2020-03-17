@@ -24,4 +24,16 @@
 - Don’t overuse putting forms side by side - Try to do it only if it supports the normal way you input it.
 
 
+
+![Don't do](https://github.com/tja1607/testGuidelines/blob/master/Forms/inputDo.svg)
+
+![Pleas do](https://github.com/tja1607/testGuidelines/blob/master/Forms/inputDont.svg)
+
 ## Input Container
+
+Input Container provides layout and styling of inputs within it as well as styling for:
+
+- the input label
+- input description,
+- a tag (often used for things like (optional) next to the form label)
+- a slot to hold a tooltip or other information pinned to the top right of the container
