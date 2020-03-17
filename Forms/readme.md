@@ -23,21 +23,10 @@
 - Don’t write the same placeholder text as the label, eg. “Emne & Indtast emne” - If you need to show a hint text make an example (“eg. 12/23/2020”) - Try not to have a placeholder text
 - Don’t overuse putting forms side by side - Try to do it only if it supports the normal way you input it.
 
-<table border="1">
-<tr>
- <td width="50%">hello</td>
- <td width="50%">hello</td>
-</tr>
-</table>
-Don’t overuse putting forms side by side | Keep the same structure as in real world examples and make it easy for people to copy/paste
------------- | -------------
-![Don't do](https://github.com/tja1607/testGuidelines/blob/master/Forms/inputDont.svg) | ![Pleas do](https://github.com/tja1607/testGuidelines/blob/master/Forms/inputDo.svg)
-> We're living the future so the present is our past | > We're living the future so the present is our past
 
 ##### Don’t overuse putting forms side by side
 ![Don't do](https://github.com/tja1607/testGuidelines/blob/master/Forms/inputDont.svg)
 > We're living the future so the present is our past
-
 ##### Keep the same structure as in real world examples and make it easy for people to copy/paste
 ![Pleas do](https://github.com/tja1607/testGuidelines/blob/master/Forms/inputDo.svg)
 > We're living the future so
