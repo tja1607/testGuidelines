@@ -2,7 +2,7 @@
 
 #### Index
 
-* [Design Best Practices](#Design Best Practices)
+[Design Best Practices](#Design Best Practices)
 
 
 ## Design Best Practices
