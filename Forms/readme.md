@@ -24,6 +24,8 @@
 - Don’t overuse putting forms side by side - Try to do it only if it supports the normal way you input it.
 
 
+___
+
 **Don’t overuse putting forms side by side**
 
 ![Don't do](https://github.com/tja1607/testGuidelines/blob/master/Forms/inputDont.svg)
