@@ -5,9 +5,8 @@
 [Design Best Practices](#Design Best Practices)
 
 
-[Markdown - Link](#Avoid)
+[Markdown - Link](#avoid)
 
-[Markdown - Link](####Avoid)
 
 ## Design Best Practices
 #### Aim To 
