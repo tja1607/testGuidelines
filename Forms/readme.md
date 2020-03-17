@@ -25,8 +25,8 @@
 
 <table border="1">
 <tr>
- <td>hello</td>
- <td>hello</td>
+ <td width="50%">hello</td>
+ <td width="50%">hello</td>
 </tr>
 </table>
 Don’t overuse putting forms side by side | Keep the same structure as in real world examples and make it easy for people to copy/paste
