@@ -1,8 +1,8 @@
 # Forms
 <nav>
 
-[Design Best Practices](#design-best-practices)
-[Input Container](#input-Container)
+* [Design Best Practices](#design-best-practices)
+* [Input Container](#input-Container)
 
 </nav>
 
