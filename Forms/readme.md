@@ -51,4 +51,4 @@ Input Container provides layout and styling of inputs within it as well as styli
 - a tag (often used for things like (optional) next to the form label)
 - a slot to hold a tooltip or other information pinned to the top right of the container
 
-> ![Pleas do](https://github.com/tja1607/testGuidelines/blob/master/Forms/inputDo.svg) We're living the future so
+> ![Pleas do](https://github.com/tja1607/testGuidelines/blob/master/Forms/do.svg) We're living the future so
